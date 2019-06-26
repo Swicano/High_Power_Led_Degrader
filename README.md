@@ -1,5 +1,7 @@
 # High_Power_Led_Degrader
-All the information regarding the construction and running of the "Blue Box Sr." built to drive 600W worth of LED CoBs using water cooling. This device builds on the unrealized desires and lessons learned from the building and running of the first generation photothermal degrader, now renamed the "Blue Box Jr.".
+All the information regarding the construction and running of the "Blue Box Sr." built to drive 600W worth of LED CoBs using water cooling. This device builds on the unrealized desires and lessons learned from the building and running of the first generation photothermal degrader, now renamed the "Blue Box Jr."
+
+This repository includes the electrical schematic, the 3D print files used to make the interface, and the arduino code that runs the entire device.
 
 <p>
 <p align="center"> The Bigger Blue-er Box </p>
